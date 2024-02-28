@@ -1,0 +1,20 @@
+<style>
+body {
+    color: #333;
+    background-color: #f0f0f0;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #004680;
+}
+.container {
+    max-width: 800px;
+}
+.stFileUploader > label {
+    width: 200px; /* Change this value to set the desired width */
+    height: 50px; /* Change this value to set the desired height */
+    line-height: 50px; /* Center the text vertically */
+    text-align: center; /* Center the text horizontally */
+    border: 1px solid #ccc; /* Add a border for better visibility */
+    border-radius: 5px; /* Rounded corners */
+}
+</style>

@@ -1,0 +1,10 @@
+streamlit==1.24.1
+streamlit-option-menu
+google-cloud-aiplatform
+pandas-gbq
+pandas
+google-auth
+requests
+PyGithub
+bs4
+lxml
